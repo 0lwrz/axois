@@ -1,0 +1,23 @@
+
+div{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 20px;
+    background-color: #eee;
+}
+div img {
+    width: 500px;
+}
+div h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+div a {
+    text-decoration: none;
+    color: black;
+    border: 2px black solid;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
